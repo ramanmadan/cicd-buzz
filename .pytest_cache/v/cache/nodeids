@@ -1,0 +1,5 @@
+[
+  "buzz/test_generator.py::test_sample_single_word",
+  "buzz/test_generator.py::test_sample_multiple_words",
+  "buzz/test_generator.py::test_generate_buzz_of_at_least_five_words"
+]
